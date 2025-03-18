@@ -26,7 +26,7 @@ A powerful web application that allows you to translate text and speech between 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/text_to_speech_translator.git
+git clone https://github.com/Niainarisoa01/text_to_speech_translator.git
 cd text_to_speech_translator
 ```
 
@@ -85,7 +85,7 @@ Une application web puissante qui vous permet de traduire du texte et de la paro
 
 1. Cloner le dépôt :
 ```bash
-git clone https://github.com/yourusername/text_to_speech_translator.git
+git clone https://github.com/Niainarisoa01/text_to_speech_translator.git
 cd text_to_speech_translator
 ```
 
